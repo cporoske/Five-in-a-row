@@ -2,7 +2,7 @@
 一个简单的五子棋人机对战游戏，GUI基于[EasyX](https://easyx.cn/)
 
 ## 运行截图
-![img1](http://pw9l1zd1z.bkt.clouddn.com/five-1.png "img1")
+![img1](/images/five-1.jpg "img1")
 ![img1](http://pw9l1zd1z.bkt.clouddn.com/five-2.png "img1")
 ![img1](http://pw9l1zd1z.bkt.clouddn.com/five-3.png "img1")
 
